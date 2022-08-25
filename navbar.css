@@ -1,0 +1,20 @@
+#icon{
+    width: 30px;
+    cursor: pointer;
+    justify-content: center;
+}
+:root{
+   --primary-color:#e9ecef;
+    --Secondry-color:#082032;
+
+    
+}
+.dark-theme{
+    --primary-color:black;
+    --Secondry-color:#aec0cf;
+
+}
+.container{
+    background-attachment: #082032;
+    
+}
